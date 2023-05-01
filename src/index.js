@@ -7,7 +7,7 @@ function App() {
             <nav className='navbar sticky-top navbar-light
           bg-dark'>
                 <h1 className='navbar-brand text-light'>
-                    Rick and Morty</h1>
+                    Rick and Morty-The best show ever</h1>
             </nav>
             <List />
         </div>
